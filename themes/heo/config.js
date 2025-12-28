@@ -85,7 +85,7 @@ const CONFIG = {
     {
       title_1: 'Vercel',
       img_1: '/images/heo/Vercel.svg',
-      color_1: '#000000',
+      color_1: '#FFFFFF',
       title_2: 'Cloudflare',
       img_2: '/images/heo/Cloudflare.svg',
       color_2: '#F48120'
@@ -93,7 +93,7 @@ const CONFIG = {
     {
       title_1: 'Next.js',
       img_1: '/images/heo/Next.js.svg',
-      color_1: '#000000',
+      color_1: '#FFFFFF',
       title_2: 'Rust',
       img_2: '/images/heo/Rust.svg',
       color_2: '#CE422B'
@@ -101,10 +101,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: '',
+  HEO_SOCIAL_CARD_TITLE_1: '关注公众号',
+  HEO_SOCIAL_CARD_TITLE_2: '获取更多更独家的资讯',
+  HEO_SOCIAL_CARD_TITLE_3: '搜索公众号「黑犬的量化日记」',
+  HEO_SOCIAL_CARD_URL: 'https://web.wechat.com/',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
