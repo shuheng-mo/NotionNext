@@ -4,12 +4,13 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-06-18', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到黑犬的狗窝！', url: '' },
+    { title: '访问我的社交媒体获得更多信息→', url: 'https://linktr.ee/mo_shuheng' },
+    { title: '考虑支持我激励我创作更多内容→', url: 'https://afdian.com/a/black-dog-momo' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +19,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '暗海淘金，有趣长青',
+  HEO_HERO_TITLE_2: '认知与创新',
+  HEO_HERO_TITLE_3: 'SHUHENG-MO.com',
+  HEO_HERO_TITLE_4: '独立开发计划',
+  HEO_HERO_TITLE_5: 'Veloq高性能中间件绝赞构建中',
+  HEO_HERO_TITLE_LINK: 'https://github.com/shuheng-mo/VeloQ',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -40,21 +41,20 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '💜 INTJ-A',
+    '🧠 业余AI工程师',
+    '🏃 行动力超强',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🧱 尖端科技追逐者'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/shuheng-mo',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://linktr.ee/mo_shuheng',
+  HEO_INFO_CARD_TEXT3: '更多内容',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
